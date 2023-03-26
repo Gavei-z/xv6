@@ -106,3 +106,4 @@ sys_trace(void)
     p->trace_mask = mask;
     return 0;
 }
+
